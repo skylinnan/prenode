@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 )
-
+//var testmerge
 var serverip string
 var exit chan bool
 var l4port, aaaport int
